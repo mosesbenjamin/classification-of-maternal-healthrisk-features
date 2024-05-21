@@ -5,3 +5,4 @@ This codebase houses the python code and dataset(used) for 7072CEM - Machine Lea
 ## Quick Links
 - [Jupiter Notebook](./7072CEM.ipynb)
 - [Maternal Health Risk Dataset](./maternal_health_risk_data_set.csv)
+- [Final report](./ML_COURSEWORK_REPORT.pdf)
